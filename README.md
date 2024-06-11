@@ -42,6 +42,9 @@ Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. �
 ---
 
 ### Proyectos Destacados
+
+- [Proyecto de Python: Gestor de Tareas](
+https://github.com/DanielRobles2538/GestorTareas_Python.git)
 <!---
 - [Proyecto 1: Análisis de Ventas](enlace-al-proyecto)
 - [Proyecto 2: Predicción de Tendencias](enlace-al-proyecto)
@@ -49,6 +52,7 @@ Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. �
 --->
 ---
 <!---
+https://github.com/DanielRobles2538/GestorTareas_Python.git
 DanielRobles2538/DanielRobles2538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
