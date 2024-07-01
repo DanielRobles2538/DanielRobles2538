@@ -20,7 +20,7 @@ Decidí profundizar en este campo realizando el **Máster en Data Analytics con 
 
 ### Objetivo del Portafolio
 
-En este portafolio, quiero presentar una **representación de mi trabajo** como analista de datos, utilizando las diferentes herramientas con las que tengo conocimientos y experiencia. Aquí encontrarás proyectos que demuestran mi capacidad para transformar e interpretar datos, y cómo se puede extraer información valiosa de ellos.
+En este portafolio, quiero mostrar una **representación de mi trabajo** como analista de datos, utilizando las diferentes herramientas con las que tengo conocimientos y experiencia. Aquí encontrarán proyectos que demuestran mi capacidad para transformar e interpretar datos, y cómo se puede extraer información valiosa de ellos.
 
 ---
 
