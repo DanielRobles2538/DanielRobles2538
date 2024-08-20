@@ -6,7 +6,7 @@
 
 En mi vida profesional, siempre he estado enfocado en la **solución de problemas** y en trabajar con la máxima precisión, cumpliendo con **altos estándares de calidad**. Esto me ha permitido desarrollar una **mente analítica** y una **gran autonomía** en la toma de decisiones, otorgándome la capacidad de ser **resolutivo** y **metódico**.
 
-Soy una persona curiosa y apasionada por el aprendizaje continuo. Mi interés por el análisis de datos surgió al darme cuenta de que siempre he trabajado con datos, aunque sin ser plenamente consciente de ello.
+Soy una persona curiosa y apasionada por el aprendizaje continuo. Mi interés por el análisis de datos surgió al darme cuenta de que siempre he trabajado con datos, y me propuse hacerlo de una forma profesional.
 
 ### Formación
 
@@ -24,20 +24,7 @@ En este portafolio, quiero mostrar una **representación de mi trabajo** como an
 
 ---
 
-Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. ¡Gracias por su visita!
-
----
-
-### Contacto
-
-<!--- Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme: --->
-
-- **Email:** [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)
-- **LinkedIn:** [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
-
----
-
-**¡Vamos a descubrir juntos el fascinante mundo de los datos!**
+Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. ¡Vamos a descubrir juntos el fascinante mundo de los datos!
 
 ---
 
@@ -50,6 +37,19 @@ https://github.com/DanielRobles2538/GestorTareas_Python.git)
 - [Proyecto 2: Predicción de Tendencias](enlace-al-proyecto)
 - [Proyecto 3: Visualización de Datos con Power BI](enlace-al-proyecto)
 --->
+
+---
+### Contacto
+
+<!--- Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme: --->
+
+- **Email:** [danielroblesaller@gmail.com](mailto:danielroblesaller@gmail.com)
+- **LinkedIn:** [Daniel Robles](https://www.linkedin.com/in/danielroblesaller)
+  
+---
+
+**¡Gracias por su visita!**
+
 ---
 <!---
 https://github.com/DanielRobles2538/GestorTareas_Python.git
