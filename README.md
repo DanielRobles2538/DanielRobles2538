@@ -32,6 +32,8 @@ Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. �
 
 - [Proyecto de Python: Gestor de Tareas](
 https://github.com/DanielRobles2538/GestorTareas_Python.git)
+
+- [Proyecto Jupyter Notebook: EDA y Análisis de Campaña de Marketing de Entidad Bancaria](https://github.com/DanielRobles2538/AnalisisMarketing_Python)
 <!---
 - [Proyecto 1: Análisis de Ventas](enlace-al-proyecto)
 - [Proyecto 2: Predicción de Tendencias](enlace-al-proyecto)
@@ -48,7 +50,7 @@ https://github.com/DanielRobles2538/GestorTareas_Python.git)
   
 ---
 
-**¡Gracias por su visita!**
+**¡Gracias por visitar mi Portafolio!**
 
 ---
 <!---
