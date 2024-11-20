@@ -30,12 +30,17 @@ Espero que disfruten explorando mi trabajo tanto como yo disfruté creándolo. �
 
 ### Proyectos Destacados
 
-- [Proyecto de Python: Gestor de Tareas](
-https://github.com/DanielRobles2538/GestorTareas_Python.git)
-
+- [Proyecto Power BI: Análisis de Campaña de Marketing por Email](https://github.com/DanielRobles2538/EmailCampaignAnalysis)
+  
 - [Proyecto Jupyter Notebook: EDA y Análisis de Campaña de Marketing de Entidad Bancaria](https://github.com/DanielRobles2538/AnalisisMarketing_Python)
 
-- [Proyecto Power BI: Análisis de Campaña de Marketing por Email](https://github.com/DanielRobles2538/EmailCampaignAnalysis)
+- [Proyecto REST API con Python & Flask: User management API](https://github.com/DanielRobles2538/email_restAPI)
+
+- [Proyecto de Python: Gestor de Tareas](https://github.com/DanielRobles2538/GestorTareas_Python.git)
+
+
+
+
 <!---
 - [Proyecto 1: Análisis de Ventas](enlace-al-proyecto)
 - [Proyecto 2: Predicción de Tendencias](enlace-al-proyecto)
